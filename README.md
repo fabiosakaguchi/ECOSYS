@@ -12,7 +12,7 @@ git clone https://github.com/jinyun1tang/ECOSYS.git
 
 You can also make a fork using the fork button on the upper right corner.
 
-If you want to use the 2024 release, in your ECOSYS directory, check it out using the following command.
+## If you want to use the 2024 release, in your ECOSYS directory, check it out using the following command.
 
 git checkout master.vfire
 
