@@ -325,6 +325,8 @@ C
 C
 C     TIME STEPS FOR SOLUTE FLUX CALCULATIONS
 C
+      write(*,*)'isalt'
+      write(*,*)ISALTG
       DO 9995 NX=NHW,NHE
       DO 9990 NY=NVN,NVS
       IF(ISALTG.NE.0)THEN
